@@ -20,7 +20,7 @@ No tokens. No payments. Just decentralized gameplay and pure logic on-chain.
 
 - 100% on-chain game logic
 - Stateless passengers (no NFTs or ERC20s)
-- Stateless progression: your reputation is your score
+- Stateless progression: your reputation is your score 
 - Simple rules, endless replayability
 
 ---
