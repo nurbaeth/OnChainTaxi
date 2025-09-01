@@ -1,6 +1,6 @@
 # 🚕 OnChainTaxi      
       
-OnChainTaxi is a fully on-chain game built with Solidity where you play as a taxi driver on the Ethereum blockchain.      
+OnChainTaxi is a fully on-chain game built with Solidity where you play as a taxi driver on the Ethereum blockchain.       
 No tokens. No payments. Just decentralized gameplay and pure logic on-chain.      
          
 > 🛑 No frontends, no databases — every ride, every action, every reputation point lives on-chain.     
