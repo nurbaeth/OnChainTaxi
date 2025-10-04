@@ -15,7 +15,7 @@ No tokens. No payments. Just decentralized gameplay and pure logic on-chain.
 - 📊 Check your active rides and reputation anytime.        
        
 ---  
-   
+    
 ## ✨ Features 
 
 - 100% on-chain game logic 
