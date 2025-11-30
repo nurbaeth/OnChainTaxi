@@ -5,7 +5,7 @@ No tokens. No payments. Just decentralized gameplay and pure logic on-chain.
                
 > 🛑 No frontends, no databases — every ride, every action, every reputation point lives on-chain.           
            
----         
+---          
          
 ## 🎮 Gameplay      
          
