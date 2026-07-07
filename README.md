@@ -10,7 +10,7 @@ No tokens. No payments. Just decentralized gameplay and pure logic on-chain.
 ## 🎮 Gameplay       
           
 - 🚖 Start a ride: pick up a passenger and set the destination.              
-- ✅ Complete the ride: earn 1 reputation point.         
+- ✅ Complete the ride: earn 1 reputation point.          
 - 🧠 Every ride is tracked, stored, and verified by the contract.     
 - 📊 Check your active rides and reputation anytime.           
         
